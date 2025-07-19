@@ -1,0 +1,9 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: 0.1.4
+_src_path: gh:DHARPA-Project/kiara_plugin_template.git
+anaconda_user: freckles
+email: markus@frkl.dev
+full_name: Markus Binsteiner
+github_user: makkus
+project_name: test_plugin
+project_short_description: A plugin.
